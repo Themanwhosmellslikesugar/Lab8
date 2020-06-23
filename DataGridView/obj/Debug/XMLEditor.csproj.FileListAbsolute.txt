@@ -1,0 +1,33 @@
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csprojAssemblyReference.cache
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.New.resources
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csproj.GenerateResource.cache
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csprojAssemblyReference.cache
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\DataGridView.New.resources
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csproj.GenerateResource.cache
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\vlado\Desktop\XMLEditor-master\DataGridView\obj\Debug\DataGridView.pdb
+D:\Lab8\DataGridView\bin\Debug\DataGridView.exe.config
+D:\Lab8\DataGridView\bin\Debug\DataGridView.exe
+D:\Lab8\DataGridView\bin\Debug\DataGridView.pdb
+D:\Lab8\DataGridView\obj\Debug\XMLEditor.csprojAssemblyReference.cache
+D:\Lab8\DataGridView\obj\Debug\DataGridView.Form1.resources
+D:\Lab8\DataGridView\obj\Debug\DataGridView.New.resources
+D:\Lab8\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+D:\Lab8\DataGridView\obj\Debug\XMLEditor.csproj.GenerateResource.cache
+D:\Lab8\DataGridView\obj\Debug\XMLEditor.csproj.CoreCompileInputs.cache
+D:\Lab8\DataGridView\obj\Debug\DataGridView.exe
+D:\Lab8\DataGridView\obj\Debug\DataGridView.pdb
